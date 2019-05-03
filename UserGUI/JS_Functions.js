@@ -1,0 +1,4 @@
+function getBobName(){
+	return "Bob";
+}
+
