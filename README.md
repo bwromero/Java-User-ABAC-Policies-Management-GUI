@@ -1,4 +1,3 @@
-# Tirocinio-Universitario-GUI-User
 The GUI for the "normal" users of the system
 
 ## **Gestione degli User e Client:**
